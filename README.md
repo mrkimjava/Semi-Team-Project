@@ -1,6 +1,7 @@
 # 세미 프로젝트 (여행을 묻다)
 ## 프로젝트 개요
-- 프로젝트의 목적
+- 프로젝트 선정 이유
+<img width="700" height="500" src="https://user-images.githubusercontent.com/91609858/141305625-55973f69-559e-4bb1-9b86-55fd70113344.PNG"> <br>
 
 
 
