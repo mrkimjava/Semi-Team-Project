@@ -25,5 +25,5 @@
 - 최수빈 - 블로그 메인페이지, 블로그게시판, 공지게시판
 
 <br>
-- <a href="https://github.com/mrkimjava/semiProject/blob/master/ER-Diagram.PNG">ER-Diagram</a><br>
-- <a href="">시연영상 확인하기</a>
+ - <a href="https://github.com/mrkimjava/semiProject/blob/master/ER-Diagram.PNG">ER-Diagram</a><br>
+ - <a href="">시연영상 확인하기</a>
