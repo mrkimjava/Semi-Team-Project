@@ -1,0 +1,107 @@
+@charset "UTF-8";
+
+table {
+	width:100%;
+}
+#bell {
+	width:25px;
+	height:25px;
+}
+.trash {
+	width:15px;
+	height:15px;
+}
+.listpic {
+	width: 45px;
+	height: 45px;
+}
+.messenger-table {
+	width:600px;
+	margin:50px auto;
+}
+tr {
+	height:40px;
+}
+.message {
+	text-decoration:none;
+	color:black;
+	font-weight:lighter;
+}
+
+.iconTd{
+	padding:25px;
+}
+
+.alert-message{
+	z-index:1;
+	width:75%; 
+	height:auto; 
+	background-color:rgb(220, 226, 226); 
+	position:absolute; 
+	margin-left:19%;
+	margin-top:8%;
+	display:none;
+	border-radius:10px;
+	padding-bottom:5px;
+
+}
+
+.alert-button {
+	width:45px;
+	height:20px;
+	font-size:10px;
+	border-radius:10px;
+	background-color:white;
+	border:none;
+}
+#close-button {
+	width:15px;
+	height:15px;
+	margin-left:95%;
+}
+#close-button:hover{
+	cursor:pointer;
+}
+#bell:hover{
+	cursor:pointer;
+}
+#deleteTab:hover {
+	cursor:pointer;
+}
+#messageTab:hover {
+	cursor:pointer;
+}
+li {
+	margin-bottom:10px;
+}
+
+
+
+.firstDiv {
+	width:100%; height:auto; background-color:rgb(220, 226, 226); border-radius:10px;
+}
+.secondDiv {
+	height:100%; width:20%; padding-top:2%;
+}
+.thirdDiv {
+	width:80%; height:auto; margin-left:17%;
+}
+.ask_nameSpan {
+	font-size:15px; letter-spacing:2px;
+}
+.ask_timeSpan {
+	margin-left:15px; font-size:12px;
+}
+.fourthDiv {
+	width:80%; height:auto; margin-left:17%; font-size:13px; letter-spacing:2px;
+}
+.fifthDiv {
+	width:80%; height:auto; margin-left:17%;
+}
+.connect-pic {
+	width:40px;
+	height:40px;
+	float:left;
+	margin-top:15%;
+	margin-left:25%;
+}
