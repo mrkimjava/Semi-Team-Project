@@ -24,6 +24,6 @@
 - 박희원 - 여행일정짜기, 마이페이지(기능보조)
 - 최수빈 - 블로그 메인페이지, 블로그게시판, 공지게시판
 
-<br>
- - <a href="https://github.com/mrkimjava/semiProject/blob/master/ER-Diagram.PNG">ER-Diagram</a><br>
- - <a href="">시연영상 확인하기</a>
+
+- <a href="https://github.com/mrkimjava/semiProject/blob/master/ER-Diagram.PNG">ER-Diagram</a>
+- <a href="">시연영상 확인하기</a>
