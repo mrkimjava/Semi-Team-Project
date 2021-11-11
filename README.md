@@ -14,7 +14,7 @@
 - 라이브러리 : jQuery, json-simple, gson, ojdbc6, jstlel
 - 프레임워크 : BootStrap
 - 서버 : Tomcat 9.0
-- DB : Oracle
+- DB : Oracle (TABLE, VIEW, PL-SQL)
 - 협업 툴 : 깃허브(eclipse)
 
 ## 담당 페이지
