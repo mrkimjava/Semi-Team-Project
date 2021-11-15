@@ -26,4 +26,4 @@
 
 ## 다이어그램 / 시연 영상
 - <a href="https://github.com/mrkimjava/semiProject/blob/master/ER-Diagram.PNG">ER-Diagram</a>
-- <a href="">시연영상 확인하기</a>
+- <a href="https://www.youtube.com/watch?v=uI35P3L-Bw4">시연영상 확인하기</a>
