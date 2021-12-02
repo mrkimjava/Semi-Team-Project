@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/91609858/144407772-e4dba535-b7ea-425b-bf17-86eb0ee5c9fc.png) <br><br>
 ### ● 날짜별 타임라인 / 위도경도별 날씨예측
 ![image](https://user-images.githubusercontent.com/91609858/144407789-02c67ec7-49a8-4a8c-b6dc-8f2c3c31a531.png) <br><br>
-### ● 여행 동선확인  
+### ● 여행 동선확인 / 교통수단 정보제공
 ![image](https://user-images.githubusercontent.com/91609858/144407801-641e0b76-ce17-4aa3-9f2b-0d1d342b9a60.png)
 
   
