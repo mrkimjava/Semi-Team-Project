@@ -1,14 +1,14 @@
 # 세미 프로젝트 (여행을 묻다)
 ## 프로젝트 개요
 ![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)
-![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png)
+
+### 여행지 검색
+<span style='text-align:center;'>![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png)</span>
+### 
 ![image](https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png)
 ![image](https://user-images.githubusercontent.com/91609858/144403914-1b2982b1-115e-48f1-b799-c1cf178bf65d.png)
 ![image](https://user-images.githubusercontent.com/91609858/144403939-925b5f54-a5af-4138-82bc-eb26736b74a8.png)
 ![image](https://user-images.githubusercontent.com/91609858/144403949-a53131cd-4abd-4b94-bb52-94a31795b830.png)
-
-
-<br>
 
 ## 팀 구성원 및 담당 역할
 - 김서경(팀장) - 화면설계, DB설계, 기능구현
