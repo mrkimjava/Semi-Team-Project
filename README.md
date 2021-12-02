@@ -9,19 +9,19 @@
 <br><br>
 ● 장소 상세정보 / 찜하기
 
-<img src="https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png" width="50%" height="50%">  
+<img src="https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png">  
 <br><br>
 ● 여행 계획하기
   
-<img src="https://user-images.githubusercontent.com/91609858/144403914-1b2982b1-115e-48f1-b799-c1cf178bf65d.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/91609858/144403914-1b2982b1-115e-48f1-b799-c1cf178bf65d.png">
 <br><br>
 ● 날짜별 타임라인 / 위도경도별 예측날씨 정보제공
   
-<img src="https://user-images.githubusercontent.com/91609858/144403939-925b5f54-a5af-4138-82bc-eb26736b74a8.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/91609858/144403939-925b5f54-a5af-4138-82bc-eb26736b74a8.png">
 <br><br>
 ● 동선 확인 및 교통수단정보제공
   
-<img src="https://user-images.githubusercontent.com/91609858/144403949-a53131cd-4abd-4b94-bb52-94a31795b830.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/91609858/144403949-a53131cd-4abd-4b94-bb52-94a31795b830.png">
 </p>
   
 ## 팀 구성원 및 담당 역할
