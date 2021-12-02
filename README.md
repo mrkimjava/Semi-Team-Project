@@ -1,6 +1,6 @@
 # 세미 프로젝트 (여행을 묻다)
 ## 프로젝트 개요
-![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)
+<p align="center">![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)</p>
 
 ## 주요화면
 ### ● 여행지 검색하기
