@@ -4,7 +4,7 @@
 
 ## 주요화면
 ### ● 여행지 검색하기
-<div style='text-align:center;'> ![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png) </div>
+<div style='text-align:center;'>![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png)</div>
 <br><br>
 ### ● 장소 상세정보 / 찜하기
 ![image](https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png) 
