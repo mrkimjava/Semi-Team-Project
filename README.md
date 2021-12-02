@@ -3,6 +3,16 @@
 ![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)
 
 ## 주요화면
+### - 여행지 검색 
+![image](https://user-images.githubusercontent.com/91609858/144407704-f7783511-9d12-4fb8-93f0-1487ea0c3f54.png) <br><br>
+### - 장소 상세보기 / 장소찜
+![image](https://user-images.githubusercontent.com/91609858/144407760-70380522-8032-4a95-894a-e0ae606065a3.png) <br><br>
+### - 여행 계획하기
+![image](https://user-images.githubusercontent.com/91609858/144407772-e4dba535-b7ea-425b-bf17-86eb0ee5c9fc.png) <br><br>
+### - 날짜별 타임라인 / 위도경도별 날씨예측
+![image](https://user-images.githubusercontent.com/91609858/144407789-02c67ec7-49a8-4a8c-b6dc-8f2c3c31a531.png) <br><br>
+### - 여행 동선확인 / 
+![image](https://user-images.githubusercontent.com/91609858/144407801-641e0b76-ce17-4aa3-9f2b-0d1d342b9a60.png)
 
   
 ## 팀 구성원 및 담당 역할
