@@ -3,8 +3,9 @@
 ![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)
 
 ## 주요화면
+<p align="center">
 ### ● 여행지 검색하기
-<img src="https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png">
+![image](https://user-images.githubusercontent.com/91609858/144406284-6d6c33ce-ada9-4735-843a-c11f73bf3237.png)
 <br><br>
 ### ● 장소 상세정보 / 찜하기
 ![image](https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png) 
@@ -17,7 +18,8 @@
 <br><br>
 ### ● 동선 확인 및 교통수단정보제공
 ![image](https://user-images.githubusercontent.com/91609858/144403949-a53131cd-4abd-4b94-bb52-94a31795b830.png)
-
+</p>
+  
 ## 팀 구성원 및 담당 역할
 - 김서경(팀장) - 화면설계, DB설계, 기능구현
 - 강동희 - 화면 설계, DB 설계, 기능구현
