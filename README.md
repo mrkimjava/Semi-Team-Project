@@ -3,14 +3,14 @@
 ![image](https://user-images.githubusercontent.com/91609858/144403356-ecdee66f-4c97-4b61-b282-b2434ec6d6c9.png)
 
 ## 주요화면
-### 여행지 검색
-<span style='text-align:center;'>![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png)</span>
-### 장소 찜
-![image](https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png)
-### 여행계획하기
-![image](https://user-images.githubusercontent.com/91609858/144403914-1b2982b1-115e-48f1-b799-c1cf178bf65d.png)
+### 여행지 검색하기
+![image](https://user-images.githubusercontent.com/91609858/144403764-593dab38-e318-422a-82ee-36c9d7d5dd01.png) <br>
+### 장소 상세정보 / 찜하기
+![image](https://user-images.githubusercontent.com/91609858/144403890-d9ccfcd2-b3c6-4a78-a33d-e6c2df8dca7f.png) <br>
+### 여행 계획하기
+![image](https://user-images.githubusercontent.com/91609858/144403914-1b2982b1-115e-48f1-b799-c1cf178bf65d.png) <br>
 ### 계획한 여행지 날짜별 타임라인 / 위도경도별 예측날씨 정보제공
-![image](https://user-images.githubusercontent.com/91609858/144403939-925b5f54-a5af-4138-82bc-eb26736b74a8.png)
+![image](https://user-images.githubusercontent.com/91609858/144403939-925b5f54-a5af-4138-82bc-eb26736b74a8.png) <br>
 ### 동선 확인 및 교통수단정보제공
 ![image](https://user-images.githubusercontent.com/91609858/144403949-a53131cd-4abd-4b94-bb52-94a31795b830.png)
 
