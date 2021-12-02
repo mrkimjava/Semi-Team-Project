@@ -6,7 +6,7 @@
 ### ● 여행지 검색 
 ![test2](https://user-images.githubusercontent.com/91609858/144409142-38d77bc8-55cd-45bf-82db-3631dcd27daf.jpg) <br><br>
 ### ● 장소 상세보기 / 장소찜
-![image](https://user-images.githubusercontent.com/91609858/144407760-70380522-8032-4a95-894a-e0ae606065a3.png) <br><br>
+![test3](https://user-images.githubusercontent.com/91609858/144409567-90cc16da-ed90-4f45-821f-8e56d1695602.jpg) <br><br>
 ### ● 여행 계획하기
 ![image](https://user-images.githubusercontent.com/91609858/144407772-e4dba535-b7ea-425b-bf17-86eb0ee5c9fc.png) <br><br>
 ### ● 날짜별 타임라인 / 위도경도별 날씨예측
